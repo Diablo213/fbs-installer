@@ -1,0 +1,1 @@
+cd && apt update -y && apt upgrade -y && pkg install figlet -y && pkg install python -y && pkg install python2 -y && pkg install git -y && pkg install git -y && git clone https://github.com/arfatkhanbd/FB-Sploit-.git && cd FB-Sploit- && pip2 install -r setup.txt && unzip FB-Sploit.zip && cd FB-Sploit && chmod +x * && python main.py
